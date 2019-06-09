@@ -1,1 +1,1 @@
-xxx
+Basics of computer programming, algorithms and object-oriented programming using the Java programming language.
